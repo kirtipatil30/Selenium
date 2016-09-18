@@ -14,6 +14,7 @@ public class TestNGJenkins {
 	@Test
 	public void method1(){
 		System.out.println("Welcome to jenkins");
+		System.out.println("Welcome to jenkins");
 		
 System.setProperty("webdriver.chrome.driver", "E:\\Kirti\\ChromeDriver\\chromedriver.exe");
 		
